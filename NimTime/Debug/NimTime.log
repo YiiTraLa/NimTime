@@ -1,0 +1,4 @@
+﻿  NimTime.cpp
+C:\Users\conne\source\repos\NimTime\NimTime.cpp(16,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\conne\source\repos\NimTime\NimTime.cpp(29,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  NimTime.vcxproj -> C:\Users\conne\source\repos\NimTime\Debug\NimTime.exe
